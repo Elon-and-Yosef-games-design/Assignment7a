@@ -1,0 +1,5679 @@
+fileFormatVersion: 2
+guid: 03993c5132bba4816aca01559a59dba6
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_0
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 432
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4193ac6f3636640d797bdcfad95fc45f
+      internalID: -860833631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_1
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 432
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81cfd2fc8659a4a76819002b0fcade40
+      internalID: -733750930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_2
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 432
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e029958bc88447409879355282921f2
+      internalID: 111708188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_3
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 432
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eebd7ee9ba59547aa928929172d16e38
+      internalID: 280052224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_4
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 432
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e695883977124015b9a8dd7f73caf82
+      internalID: 1345646229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_5
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 432
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd6e64fdbc7ba48bc9de75467e229645
+      internalID: 1478362553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_6
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 432
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab956be46e914bfe9c71f04b18b03e0
+      internalID: 1746542516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_7
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 432
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d12b60f3785404b9ef570c20957a0a
+      internalID: -153722377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_8
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 432
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8124c78d1e61404abb1c2fd7bfbe6ea
+      internalID: 1655357361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_9
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 432
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d48b100f633349009ad943ac0a357e4
+      internalID: -27371874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_10
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 432
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d7b36ccbf964d5480e44fb371343ce
+      internalID: 840089903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_11
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 432
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0414b8b2e9fae4f38811d055dbc002cd
+      internalID: -1883701813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_12
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 432
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acaac4a9ef7d644a3856c326ec521736
+      internalID: -1560408947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_13
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 432
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d20548937d9ee4c75b156483549e4d77
+      internalID: -1413785774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_14
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 432
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 827a800ce2afe48e4be2886aff626650
+      internalID: -1579194259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_15
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 432
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ffe8c0443e94e08a6c833dc39e5ad6
+      internalID: 1641980995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_16
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 432
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd796b9236414db989d2bb6f0ba3fae
+      internalID: -404896546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_17
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 432
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3403e05f1b7274d768080172f94f9924
+      internalID: -2038461593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_18
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 400
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1efafe0175814e4cab92c552c996c89
+      internalID: 1808961436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_19
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 400
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ec589b4c307494c89ef081ef833cb7
+      internalID: -1176397500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_20
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 400
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08c8508affddb423e83c776b2fd0f2aa
+      internalID: -1622087637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_21
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 400
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1466e39f00674117bba2a5a2d73696f
+      internalID: -486784409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_22
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 400
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c58fd48c8a24ac39ef77b398b20bdb
+      internalID: -334534750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_23
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 400
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7734fb9ad525241f5bfbc7196ad64cac
+      internalID: -520857271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_24
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 400
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf8fde1cda32647199e2f9ab2f79f9e8
+      internalID: -898527082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_25
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 400
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e833f386f799452a9e739f8a74864e9
+      internalID: -1127508224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_26
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 400
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e782fe9f18cd461c92f14578ec81233
+      internalID: -2005273851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_27
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 400
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ff9a86724ae4413adeadca7bfb13b5
+      internalID: 1191587763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_28
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 400
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26444097811144f91bbcf24a762eb4fa
+      internalID: -427287640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_29
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 400
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31e6de06cab4649209c2c2fafe96fe6b
+      internalID: 194370476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_30
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 400
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a4d8727181e44c59de862e3586fd42
+      internalID: 1593146541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_31
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 400
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a26b301054546138d717c24a1c2676
+      internalID: 1755924773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_32
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 400
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd932a9c666644a9c9fd6dff92e69dda
+      internalID: 1213870319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_33
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 400
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f17c62c31ae04075a8e1355017c049a
+      internalID: 994049731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_34
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 400
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a407eaadce721496bbd341196b7e816a
+      internalID: 1490306879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_35
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 400
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c11e668fc5a74284a9910505f4bfb66
+      internalID: 1002019691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_36
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 368
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ebf48cb246e941958f8a85370909d2a
+      internalID: -768467108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_37
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 368
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6746e5c5e1d384e71994068819173c2e
+      internalID: 1215834412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_38
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 368
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f78170322a543d9b525fd3a1ea2c8b
+      internalID: -422665025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_39
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 368
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41154ee34b2c0486d8ebf9baae1d68a8
+      internalID: 1989818419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_40
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 368
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a00c94e9165f4576b8f50622802a2f2
+      internalID: 1775169246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_41
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 368
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbf42dfae49b94db1865c4d3abe11313
+      internalID: -895386459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_42
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 368
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dad6b4580b0d4aa1bc61b5da89ea98d
+      internalID: 1468588679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_43
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 368
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec0688156945245abacbb8bc74e54a6a
+      internalID: 369165960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_44
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 368
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de0ad16a864214cb39df739a4bfdc0ea
+      internalID: 1868111570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_45
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 368
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f0e5cb687bd49e794bc40e07c673c8
+      internalID: 1759605294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_46
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 368
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7911a2d1c38a54e5f87b449ce98487f5
+      internalID: -782418870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_47
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 368
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e69066038eb00467e8953a76c6099a72
+      internalID: -1599767132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_48
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 368
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9fdffa810acb4fb49e5172a5f7c7580
+      internalID: -1696648429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_49
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 368
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c31e36f7ee9f84e0e95a706712e83ead
+      internalID: 1680736181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_50
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 368
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21894e862733340e59840a08344fea8b
+      internalID: -293463926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_51
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 368
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 034843fbb4b5b4c12bfb79a6e8e5b86c
+      internalID: 136264295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_52
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 368
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 747a42784f0694fd68c37cefbac66765
+      internalID: 2134979786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_53
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 368
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 347809ebc0fb849d5b4871bbff7e1152
+      internalID: 1660844269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_54
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 336
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 336cff9418ab8455d88940f839832c4d
+      internalID: -1257954076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_55
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 336
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b1b59e9db9c4c9d8f8c6e0706b2919
+      internalID: 2026465678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_56
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 336
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dfc08a5edcf443829ff3db64bfd032e
+      internalID: 1636226040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_57
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 336
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 687b374e0e365466fa7262e2dcdc51c8
+      internalID: -692708120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_58
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 336
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85475c7b43b884768b21041064ae699e
+      internalID: -1602732206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_59
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 336
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14714a3dba3044c418f8bcc5735194cc
+      internalID: -1013656236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_60
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 336
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2eb900e833bf47119e5c5c9101f3ee5
+      internalID: 1896950333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_61
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 336
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 893976c95aaf84b158039fa692756611
+      internalID: -1673637019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_62
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 336
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d3abeb3de204de1b95dd2e83eb20ec
+      internalID: 1116030979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_63
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 336
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cfc263d87632411dba568760672dc11
+      internalID: -167558009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_64
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 336
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0118d6719f27d4faa9eb6c8a33122b50
+      internalID: 1529133680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_65
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 336
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c6dc3c8678b4364a520bc19e9c64bd
+      internalID: 1049940733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_66
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 336
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f01e0f542e204fd68e3bae717cb61ca
+      internalID: -108129258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_67
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 336
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8078b9de40bbd473595324d3054707be
+      internalID: -292396283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_68
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 336
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7402dabedb0024d42912d732978ab0aa
+      internalID: -1858892619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_69
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 336
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c483d23be5b5547dcad3660072e3846a
+      internalID: 561732505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_70
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 336
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3ade1d86b9874157baaade3f9557f19
+      internalID: 1758415067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_71
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 336
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f919ecdeb5181459cb6e877f369d4d94
+      internalID: -2085983513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_72
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 304
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d59b251095f44f990b02bc4856907b
+      internalID: 2001793025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_73
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 304
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3d5fea195de74dc7a922ae74b18a33b
+      internalID: 1233905679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_74
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 304
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7029f44045aa04281aa71947c7eb6c1d
+      internalID: 536814214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_75
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 304
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d88e091d82657454f9571dd167aabf7d
+      internalID: 1355173148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_76
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 304
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56805f3cbe42f42aa8a7de70abd5ee74
+      internalID: 1880484370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_77
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 304
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e824a99f0094e5ab4b9919cc586001
+      internalID: 840323520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_78
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 304
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cda12d6414064fc69a295f2dc201b7c
+      internalID: -1525387136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_79
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 304
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a482aa43fee3480a9e9d1c04f4ef69f
+      internalID: -1562519464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_80
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 304
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f851f4cc18a84ef6ae99b322093d0e9
+      internalID: 2024072656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_81
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 304
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9df7dda98f764d8eb34ec6c0b194ab3
+      internalID: 730045772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_82
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 304
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e236c50e9bb7a4254a593b213cd00963
+      internalID: -1885321960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_83
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 304
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f9bcaaf64ec496c9f521f03ee0eee2
+      internalID: 787765605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_84
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 304
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb43572949da4c54b32e9830664df5a
+      internalID: -1849193472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_85
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 304
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff93ebfb02434c249c3d2d3d824b978
+      internalID: 617159125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_86
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 304
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5565c755858774332b5015e2f7c0e7d3
+      internalID: 1117498596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_87
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 304
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab816507725d4231bcbba0203af3d71
+      internalID: -1934931583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_88
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 304
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b6be4665628445c3965c665a113ca5f
+      internalID: 1545332700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_89
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 304
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d7ef4930bbdd40819266d467ea7303e
+      internalID: -2075988606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_90
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 272
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b028cb6cba70742539b528765f082c9f
+      internalID: -517234322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_91
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 272
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b96f60d7f8643406e8bc1623c54feb1b
+      internalID: 1425133530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_92
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 272
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d80109a3e8cd54dc0b42b5b0d71ad21b
+      internalID: -1298505294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_93
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 272
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08954afad47004108885445e2e93a879
+      internalID: -1265837425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_94
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 272
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eafb5d9bac99148049ad0700eb81af8e
+      internalID: 606272038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_95
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 272
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffa381beb5f4a4104bf99f76c8850362
+      internalID: -1224256000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_96
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 272
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e27e2a706dad457d9bc8ac124a05165
+      internalID: -849168168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_97
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 272
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 792156182cfd94fb7a98bce07ae38307
+      internalID: -1264055571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_98
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 272
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e65522cd0863240d78c5dd6313b47afb
+      internalID: -2123164812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_99
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 272
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6233f66168da24353be0911f43d536cd
+      internalID: 47337739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_100
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 272
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77fdc40afb9f445bead0a4d40e09d197
+      internalID: 1128082018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_101
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 272
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be1e4d83253084975b94e31f42720c59
+      internalID: 1201016344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_102
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 272
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5659ac830523c4beaba63f4738979eaa
+      internalID: 1209236824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_103
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 272
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a242633cab24427585449a3335115de
+      internalID: 1674152403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_104
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 272
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d6163c460fd54ec1aaf0424826716f1
+      internalID: 840883921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_105
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 272
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf07df79e7b14b3190a6b7f749a9834
+      internalID: 1520198105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_106
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 272
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18305d3f5b5aa42b58ad47f0e3b0b7fb
+      internalID: 1023581319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_107
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 272
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4875cbbb86017487ea790637a4380f9a
+      internalID: -171055152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_108
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 240
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa7a16e7b7ae5402083bd2ac531d7345
+      internalID: 731834356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_109
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 240
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9abcc3eefa8404937a7d824afa7dda3c
+      internalID: 890804222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_110
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 240
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 268550723fe74489cab728d694b5ab72
+      internalID: 960355404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_111
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 240
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efcb279a9feb44fe68cdd1d23284d8f5
+      internalID: 463488562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_112
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 240
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d2b6d34ecdfa49b5a176804c8c6e6d9
+      internalID: -2136961033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_113
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 240
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 666fa2c21ea804c77a7dda54bff368bc
+      internalID: -1289266769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_114
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 240
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7625e5214ddb4cbb94b6d0dcb9e5247
+      internalID: -1551932827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_115
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 240
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7d74fd4935684f419204157e8852aeb
+      internalID: 1699555001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_116
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 240
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1760334a6e4f845088f9ad0d7e1cf69b
+      internalID: 395923276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_117
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 240
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9597990148ac74c02b21c455c54b553e
+      internalID: 63624047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_118
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 240
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5758d4affe65b400ca6c9fa944720f03
+      internalID: -115074586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_119
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 240
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ead08366754fc48e6ab8fb6e0af6574d
+      internalID: 949285263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_120
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 240
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b67ae361f59ed4ebebb368940e2998ad
+      internalID: 2001357846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_121
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 240
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92901aabaf7cc4d07b77a8ec92c34463
+      internalID: -1049266771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_122
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 240
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 943daf338f7b74c02afb66f28c933a02
+      internalID: 1498623623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_123
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 240
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab60043819af45eb872d8a16e068156
+      internalID: -1504070721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_124
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 240
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ed76f27c2cf148f3978f776fc716282
+      internalID: 865560599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_125
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 240
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b1cbbefcb0ac42b68c883fc28a12e31
+      internalID: -238551280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_126
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 208
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67835c5a5e7fc45c5aa4ef9f1d99f62f
+      internalID: 1182132451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_127
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 208
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 799d5f91e4531405b987537799968972
+      internalID: -431235477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_128
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 208
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4baf9b7dadbb43f8b0adea5d0f7f0e3
+      internalID: -37604143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_129
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 208
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aabb12bf72234531a4670cf8d2cddec
+      internalID: -618048041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_130
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 208
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe7d4d62eb0924234a67fc001f3f5674
+      internalID: 275604680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_131
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 208
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6922e9ba1b9aa489896557f4212f6e7f
+      internalID: -932726355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_132
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 208
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3440fbd1591b49efbdd3780f30ab2f7
+      internalID: -1987701977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_133
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 208
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bcfcd9f8ebc940399dc1cc1f34109b5
+      internalID: -345413142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_134
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 208
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c333d347508d441d085292d77adc942e
+      internalID: -2057798442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_135
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 208
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9733553a57db4506b123cb0f169b53e
+      internalID: -1946779230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_136
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 208
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba118dc2a053f44688ed042006049a37
+      internalID: 1684930357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_137
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 208
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e987b695cc6e4918912367172ebdb18
+      internalID: 1622205314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_138
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 208
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 521d83d58f5ce4437984531e32a8bf85
+      internalID: -2072999031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_139
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 208
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 642e9789a988241c7a3104b61fe6187f
+      internalID: 667681846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_140
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 208
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63c16dc8bd3074c90aecdeb9b2eb671b
+      internalID: 806949286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_141
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 208
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 740be0590a6c248ab8a61185bb3b48f4
+      internalID: -274269857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_142
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 208
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb25c279b4ace4056bb5e65ab2bc86fb
+      internalID: 117733528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_143
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 208
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cece20faf2b84db4bd70ed7432e0095
+      internalID: 1813443748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_144
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 176
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc67b3131b04c42889080a5c573617c6
+      internalID: -737503979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_145
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 176
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 690fffee8f3cf49c9abe90287a666ffb
+      internalID: 355256828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_146
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 176
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c83d61d86c97846529ddafc3b9e2f3d0
+      internalID: 1874548251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_147
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 176
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54837a3b8994b40449d4482421d4605e
+      internalID: 1255453455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_148
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 176
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 672085fd23a004b248f414ddc307caec
+      internalID: -833246268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_149
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 176
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d0ca11c73ba64a37ad4d679bd82210b
+      internalID: 255599773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_150
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 176
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ca2f6eff2844e71ad71ef197f33eff
+      internalID: 987051237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_151
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 176
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0747037db79054bd8b3e2c07671b56fe
+      internalID: 1864344829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_152
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 176
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dba39b70bd974fca9766658b17599a0
+      internalID: 1915744598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_153
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 176
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b407b36d1cc544d9da082b3a72957fe8
+      internalID: 1991937400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_154
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 176
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63c33a81dc0d042beb05ff60eb381443
+      internalID: 1881295339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_155
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 176
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b6519cacdec046dcbd2983f3ca0b1cc
+      internalID: 1203040579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_156
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 176
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94eefdcde63244cb4b253758c6efd807
+      internalID: -47030717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_157
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 176
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 092124e762a294949bc9a9c6b7d4b142
+      internalID: -659302816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_158
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 176
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91519cd28bae040e9b82170db36a2876
+      internalID: 156539099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_159
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 176
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c14545656be4749db87a131565323e68
+      internalID: 2082260499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_160
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 176
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae1a55b3d35364529b35baa0deb8feb5
+      internalID: 28667791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_161
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 176
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 197ad3a7d32ca40428adaa94d5051216
+      internalID: -849330137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_162
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 144
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7fde7437499b4aa2bee96ca40aa8f67
+      internalID: 1131120026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_163
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 144
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69fc2aec1291e450eb3108c457af276b
+      internalID: 475971036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_164
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 144
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13a62c064f248477cb39f40c899e7c67
+      internalID: -1762766419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_165
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 144
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd4df8c0f027648069a1bb5eebe4f5f1
+      internalID: -702393802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_166
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 144
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57127b88881804800b41d9e404a1c9b6
+      internalID: 113637969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_167
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 144
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1708937ad3cc0477bba31ef92c94c2c9
+      internalID: -1831537859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_168
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 144
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c935b8ff6ee549f392327317a9a7803
+      internalID: -696687386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_169
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 144
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a219c4127b4084f5a991755cff3e8192
+      internalID: 159618160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_170
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 144
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19fac55dbded847e5b6f9592dd6c6329
+      internalID: -1688358942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_171
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 144
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 311b3f4da4a744d9184e84440072bb83
+      internalID: 2067566648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_172
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 144
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef7926456e07f46208c20cbfecfd47ef
+      internalID: 383279438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_173
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 144
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 111cea83ac6734a6f94cd2e23e251374
+      internalID: -243962681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_174
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 144
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f9f5b1fdec5e4583947a873465095e7
+      internalID: 1591061403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_175
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 144
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d07ced90392744dca4a611ac3f2c6cf
+      internalID: -572641423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_176
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 144
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f52ea76b795204b2db6e82d0fb41c5d8
+      internalID: 1651808906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_177
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 144
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bfe26a45ef1f4b2790866a9660a9949
+      internalID: 1710346629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_178
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 144
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad6bb2265f30b4ac7a74fb889b453063
+      internalID: -1601104043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_179
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 144
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c1561d1050a247d9bf8ce613a68e03e
+      internalID: -2072819209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_180
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 112
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3466f328056c348ac8565b2d1cd42e61
+      internalID: 1971352794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_181
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 112
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffa3bbe8a09fc48fba4c91f26518910a
+      internalID: 558548448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_182
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 112
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edadea6ce602149d18688c130ff44b04
+      internalID: 1200876933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_183
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 112
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d149468f1db48d5bd843bf631cea54
+      internalID: -1910513206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_184
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 112
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b680f46c3e9114486a1a3b050ca93d69
+      internalID: 1477230130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_185
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 112
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 422f6863529e64bf4b4443b753f6b4c4
+      internalID: 1628462528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_186
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 112
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2410d4b10b2fc4942a0a0e5cd2b45154
+      internalID: 1145177453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_187
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 112
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0729a1f5e298f47cd82305f040fd1b51
+      internalID: -697150581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_188
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 112
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f4c9c1d5c8b49b7b6640fd8b559759
+      internalID: -274497126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_189
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 112
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87404003e826845c1b2e5f7e0a6b07ea
+      internalID: 1282490435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_190
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 112
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d9be37a0c84424c941c9a2a4df0b65
+      internalID: 303280137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_191
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 112
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e741d2316bf43f39d4addc56bbd0d4
+      internalID: 1173580827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_192
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 112
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b518f6e5c06475981956749fd812f7
+      internalID: 1450662911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_193
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 112
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04666a7ae455b4783b27dc1e04c0d424
+      internalID: 1388432001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_194
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 112
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a146b181c451f46dca63181fdb85f380
+      internalID: -637113697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_195
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 112
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5252335d4ca0347dd9b9d15c6d1c37ba
+      internalID: 1534608794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_196
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 112
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 977f8e7f1a5d4432883c3a1de3a6d035
+      internalID: -1779457102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_197
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 112
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dfff97eb05a447ebb254fe967f985c8
+      internalID: -865643294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_198
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 80
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae120efad97da4fa3bed1740d86c02e9
+      internalID: 1339143117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_199
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 80
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b8807335bfd1408eaf7f2a29c688bc6
+      internalID: 616366305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_200
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 80
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 700b92bdf7aa84ea49dd2aed2f27c468
+      internalID: -791670222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_201
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 80
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc105907f1884306aaa32f3b834867f
+      internalID: 332368564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_202
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 80
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc806217dacc48a192761e6b3163db3
+      internalID: -1852031170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_203
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 80
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf0ab737388a489c988f47c55318a54
+      internalID: 1588530732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_204
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 80
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d7bbc65d2a9d411a82c2fdf0933b318
+      internalID: 1143720808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_205
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 80
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa8a38e28bac40d391c356a4576fdc0
+      internalID: -798447092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_206
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 80
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d3727a98e1e4b58bfe53c0f5596029
+      internalID: 1240803970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_207
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 80
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de264a775da044481b566f61717a0d4e
+      internalID: 191003630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_208
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 80
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa57c114b932d4cb3a17c6104bde1d3b
+      internalID: -1561891654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_209
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 80
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a841aa0b5c4049af86e9c46be353f61
+      internalID: 2115012182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_210
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 80
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b88bebb78dce04968bfa7049f0275557
+      internalID: -489510728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_211
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 80
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 351c1e841f6cf4f2eb157c30ccd81c89
+      internalID: 184672700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_212
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 80
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e558e9e004d27407a8ee33db69392b9c
+      internalID: -1085688094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_213
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 80
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d80ec46d73b8e419aa3506e8a90b72b0
+      internalID: 1649837862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_214
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 80
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0522b500c547645eca1df19aa07dc77a
+      internalID: -993073990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_215
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 80
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e69a043b330e4fb180ea8e1d4645a10
+      internalID: -1275657920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_216
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 48
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d280497d6954a28b7a836e8a986e85
+      internalID: 503688756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_217
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 48
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bae9a43b093f4db49b905c3f610a8bb
+      internalID: -545180683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_218
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 48
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e820bc2327f564b2b96e25287bd1c0cc
+      internalID: -1830209772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_219
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 48
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3dcd1339648348fcb625ca9f11ec0e5
+      internalID: -749937178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_220
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 48
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 420f3eeb6518d4994ae4d137bd7b279c
+      internalID: -1593019651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_221
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 48
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d1e34d941884399b7c64d4b1fe6ac3
+      internalID: 1103314664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_222
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 48
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e624e83b2bf34e55bf2f5110e92cfb1
+      internalID: 477874497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_223
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 48
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10f4e46db9e2d4c23a09332400d44618
+      internalID: 287187993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_224
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 48
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f96142ba3cf347aa990bc21a5b49abe
+      internalID: 1902671149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_225
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 48
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 698425ced364f4a0bb630301a537388f
+      internalID: 1026871062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_226
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 48
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42deeb750db514ed3b2f73b36dfc69eb
+      internalID: 1309094797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_227
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 48
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c222b32315224e0a9878e9fa6e2e2b5
+      internalID: -819378745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_228
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 48
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a12801d9027407e84e2a5bf27f9d3f
+      internalID: 1083305730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_229
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 48
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8acdd89c59cc44ef08dd039c7db7f383
+      internalID: -254515342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_230
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 48
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 163bf8ba1e84546bf86ed4eaca409fa1
+      internalID: -1725969573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_231
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 48
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e3f26cc0ddae464ba7e527ee2341e74
+      internalID: 205797284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_232
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 48
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 404f9131e335b407c86ec3decba822e5
+      internalID: 750843146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_233
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 48
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a0ee212e12fe42df98d4d481b11b7d4
+      internalID: 733356003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_234
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 16
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0debd8fe711c84a12ac49211e3c195ce
+      internalID: -1241073637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_235
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 16
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e32cf4f7898cb40fcbed5609006aa2ae
+      internalID: 1486706770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_236
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 16
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f0671fb220f4e1d9fda577c0ef43ac
+      internalID: -1132178092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_237
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 16
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba80cb0f378444cdaddd2c5da809fb7
+      internalID: 655542858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_238
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 16
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e8261ae3c4f34a068de4eac722f7dab
+      internalID: 1816289582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_239
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 16
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79bb77a796a274e13be1c260af4a4299
+      internalID: -462420817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_240
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 16
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf7d2e984ba246edb18b2a4f32a5ae5
+      internalID: -1919263787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_241
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 16
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec5e5c8bf1074354beac9813fab3757
+      internalID: 781920338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_242
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 16
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 473049f8e7434438696559cd2be8f2ee
+      internalID: 301768134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_243
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 16
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c07914e012143f19bd3e021023472f
+      internalID: -1853656227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_244
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 16
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb7a15434429b43b89ee7d6aa9b9b9a2
+      internalID: -1828970719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_245
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 16
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d50840c39f24dc8a7566fa8b28f14e
+      internalID: 82861445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_246
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 16
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bddee3856e76488482111df580ad760
+      internalID: -2076229762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_247
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 16
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf45cd1ddb5704a65b9d41de012d90a9
+      internalID: 1915126776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_248
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 16
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5b35446be0ff4738bf17a00c5f96690
+      internalID: -74654660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_249
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 16
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab61a93cb83794c1fa032cf6b7124126
+      internalID: -1871293319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_250
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 16
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f52efd902e8be40f2a2357514f2aef53
+      internalID: 1270461479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simant-the-electronic-ant-colony_3 1_251
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 16
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7917e701d45f9481aa54e28479004d67
+      internalID: -989072093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      simant-the-electronic-ant-colony_3 1_170: -1688358942
+      simant-the-electronic-ant-colony_3 1_32: 1213870319
+      simant-the-electronic-ant-colony_3 1_79: -1562519464
+      simant-the-electronic-ant-colony_3 1_37: 1215834412
+      simant-the-electronic-ant-colony_3 1_40: 1775169246
+      simant-the-electronic-ant-colony_3 1_197: -865643294
+      simant-the-electronic-ant-colony_3 1_236: -1132178092
+      simant-the-electronic-ant-colony_3 1_106: 1023581319
+      simant-the-electronic-ant-colony_3 1_26: -2005273851
+      simant-the-electronic-ant-colony_3 1_120: 2001357846
+      simant-the-electronic-ant-colony_3 1_196: -1779457102
+      simant-the-electronic-ant-colony_3 1_41: -895386459
+      simant-the-electronic-ant-colony_3 1_241: 781920338
+      simant-the-electronic-ant-colony_3 1_198: 1339143117
+      simant-the-electronic-ant-colony_3 1_176: 1651808906
+      simant-the-electronic-ant-colony_3 1_122: 1498623623
+      simant-the-electronic-ant-colony_3 1_34: 1490306879
+      simant-the-electronic-ant-colony_3 1_121: -1049266771
+      simant-the-electronic-ant-colony_3 1_190: 303280137
+      simant-the-electronic-ant-colony_3 1_159: 2082260499
+      simant-the-electronic-ant-colony_3 1_29: 194370476
+      simant-the-electronic-ant-colony_3 1_199: 616366305
+      simant-the-electronic-ant-colony_3 1_14: -1579194259
+      simant-the-electronic-ant-colony_3 1_133: -345413142
+      simant-the-electronic-ant-colony_3 1_44: 1868111570
+      simant-the-electronic-ant-colony_3 1_138: -2072999031
+      simant-the-electronic-ant-colony_3 1_239: -462420817
+      simant-the-electronic-ant-colony_3 1_51: 136264295
+      simant-the-electronic-ant-colony_3 1_206: 1240803970
+      simant-the-electronic-ant-colony_3 1_24: -898527082
+      simant-the-electronic-ant-colony_3 1_78: -1525387136
+      simant-the-electronic-ant-colony_3 1_93: -1265837425
+      simant-the-electronic-ant-colony_3 1_232: 750843146
+      simant-the-electronic-ant-colony_3 1_226: 1309094797
+      simant-the-electronic-ant-colony_3 1_178: -1601104043
+      simant-the-electronic-ant-colony_3 1_228: 1083305730
+      simant-the-electronic-ant-colony_3 1_95: -1224256000
+      simant-the-electronic-ant-colony_3 1_124: 865560599
+      simant-the-electronic-ant-colony_3 1_87: -1934931583
+      simant-the-electronic-ant-colony_3 1_180: 1971352794
+      simant-the-electronic-ant-colony_3 1_243: -1853656227
+      simant-the-electronic-ant-colony_3 1_139: 667681846
+      simant-the-electronic-ant-colony_3 1_19: -1176397500
+      simant-the-electronic-ant-colony_3 1_97: -1264055571
+      simant-the-electronic-ant-colony_3 1_2: 111708188
+      simant-the-electronic-ant-colony_3 1_53: 1660844269
+      simant-the-electronic-ant-colony_3 1_126: 1182132451
+      simant-the-electronic-ant-colony_3 1_148: -833246268
+      simant-the-electronic-ant-colony_3 1_84: -1849193472
+      simant-the-electronic-ant-colony_3 1_187: -697150581
+      simant-the-electronic-ant-colony_3 1_173: -243962681
+      simant-the-electronic-ant-colony_3 1_238: 1816289582
+      simant-the-electronic-ant-colony_3 1_54: -1257954076
+      simant-the-electronic-ant-colony_3 1_136: 1684930357
+      simant-the-electronic-ant-colony_3 1_134: -2057798442
+      simant-the-electronic-ant-colony_3 1_99: 47337739
+      simant-the-electronic-ant-colony_3 1_108: 731834356
+      simant-the-electronic-ant-colony_3 1_85: 617159125
+      simant-the-electronic-ant-colony_3 1_164: -1762766419
+      simant-the-electronic-ant-colony_3 1_222: 477874497
+      simant-the-electronic-ant-colony_3 1_101: 1201016344
+      simant-the-electronic-ant-colony_3 1_66: -108129258
+      simant-the-electronic-ant-colony_3 1_119: 949285263
+      simant-the-electronic-ant-colony_3 1_67: -292396283
+      simant-the-electronic-ant-colony_3 1_86: 1117498596
+      simant-the-electronic-ant-colony_3 1_35: 1002019691
+      simant-the-electronic-ant-colony_3 1_17: -2038461593
+      simant-the-electronic-ant-colony_3 1_152: 1915744598
+      simant-the-electronic-ant-colony_3 1_163: 475971036
+      simant-the-electronic-ant-colony_3 1_125: -238551280
+      simant-the-electronic-ant-colony_3 1_211: 184672700
+      simant-the-electronic-ant-colony_3 1_70: 1758415067
+      simant-the-electronic-ant-colony_3 1_111: 463488562
+      simant-the-electronic-ant-colony_3 1_100: 1128082018
+      simant-the-electronic-ant-colony_3 1_174: 1591061403
+      simant-the-electronic-ant-colony_3 1_166: 113637969
+      simant-the-electronic-ant-colony_3 1_82: -1885321960
+      simant-the-electronic-ant-colony_3 1_158: 156539099
+      simant-the-electronic-ant-colony_3 1_89: -2075988606
+      simant-the-electronic-ant-colony_3 1_200: -791670222
+      simant-the-electronic-ant-colony_3 1_203: 1588530732
+      simant-the-electronic-ant-colony_3 1_88: 1545332700
+      simant-the-electronic-ant-colony_3 1_12: -1560408947
+      simant-the-electronic-ant-colony_3 1_65: 1049940733
+      simant-the-electronic-ant-colony_3 1_13: -1413785774
+      simant-the-electronic-ant-colony_3 1_117: 63624047
+      simant-the-electronic-ant-colony_3 1_110: 960355404
+      simant-the-electronic-ant-colony_3 1_150: 987051237
+      simant-the-electronic-ant-colony_3 1_246: -2076229762
+      simant-the-electronic-ant-colony_3 1_143: 1813443748
+      simant-the-electronic-ant-colony_3 1_83: 787765605
+      simant-the-electronic-ant-colony_3 1_165: -702393802
+      simant-the-electronic-ant-colony_3 1_142: 117733528
+      simant-the-electronic-ant-colony_3 1_20: -1622087637
+      simant-the-electronic-ant-colony_3 1_28: -427287640
+      simant-the-electronic-ant-colony_3 1_23: -520857271
+      simant-the-electronic-ant-colony_3 1_185: 1628462528
+      simant-the-electronic-ant-colony_3 1_202: -1852031170
+      simant-the-electronic-ant-colony_3 1_161: -849330137
+      simant-the-electronic-ant-colony_3 1_63: -167558009
+      simant-the-electronic-ant-colony_3 1_9: -27371874
+      simant-the-electronic-ant-colony_3 1_114: -1551932827
+      simant-the-electronic-ant-colony_3 1_5: 1478362553
+      simant-the-electronic-ant-colony_3 1_177: 1710346629
+      simant-the-electronic-ant-colony_3 1_182: 1200876933
+      simant-the-electronic-ant-colony_3 1_107: -171055152
+      simant-the-electronic-ant-colony_3 1_61: -1673637019
+      simant-the-electronic-ant-colony_3 1_33: 994049731
+      simant-the-electronic-ant-colony_3 1_245: 82861445
+      simant-the-electronic-ant-colony_3 1_112: -2136961033
+      simant-the-electronic-ant-colony_3 1_30: 1593146541
+      simant-the-electronic-ant-colony_3 1_250: 1270461479
+      simant-the-electronic-ant-colony_3 1_36: -768467108
+      simant-the-electronic-ant-colony_3 1_147: 1255453455
+      simant-the-electronic-ant-colony_3 1_132: -1987701977
+      simant-the-electronic-ant-colony_3 1_0: -860833631
+      simant-the-electronic-ant-colony_3 1_38: -422665025
+      simant-the-electronic-ant-colony_3 1_42: 1468588679
+      simant-the-electronic-ant-colony_3 1_157: -659302816
+      simant-the-electronic-ant-colony_3 1_50: -293463926
+      simant-the-electronic-ant-colony_3 1_154: 1881295339
+      simant-the-electronic-ant-colony_3 1_39: 1989818419
+      simant-the-electronic-ant-colony_3 1_59: -1013656236
+      simant-the-electronic-ant-colony_3 1_96: -849168168
+      simant-the-electronic-ant-colony_3 1_76: 1880484370
+      simant-the-electronic-ant-colony_3 1_183: -1910513206
+      simant-the-electronic-ant-colony_3 1_46: -782418870
+      simant-the-electronic-ant-colony_3 1_81: 730045772
+      simant-the-electronic-ant-colony_3 1_57: -692708120
+      simant-the-electronic-ant-colony_3 1_68: -1858892619
+      simant-the-electronic-ant-colony_3 1_22: -334534750
+      simant-the-electronic-ant-colony_3 1_179: -2072819209
+      simant-the-electronic-ant-colony_3 1_247: 1915126776
+      simant-the-electronic-ant-colony_3 1_184: 1477230130
+      simant-the-electronic-ant-colony_3 1_242: 301768134
+      simant-the-electronic-ant-colony_3 1_145: 355256828
+      simant-the-electronic-ant-colony_3 1_144: -737503979
+      simant-the-electronic-ant-colony_3 1_237: 655542858
+      simant-the-electronic-ant-colony_3 1_118: -115074586
+      simant-the-electronic-ant-colony_3 1_171: 2067566648
+      simant-the-electronic-ant-colony_3 1_45: 1759605294
+      simant-the-electronic-ant-colony_3 1_175: -572641423
+      simant-the-electronic-ant-colony_3 1_73: 1233905679
+      simant-the-electronic-ant-colony_3 1_8: 1655357361
+      simant-the-electronic-ant-colony_3 1_151: 1864344829
+      simant-the-electronic-ant-colony_3 1_221: 1103314664
+      simant-the-electronic-ant-colony_3 1_4: 1345646229
+      simant-the-electronic-ant-colony_3 1_167: -1831537859
+      simant-the-electronic-ant-colony_3 1_210: -489510728
+      simant-the-electronic-ant-colony_3 1_58: -1602732206
+      simant-the-electronic-ant-colony_3 1_225: 1026871062
+      simant-the-electronic-ant-colony_3 1_249: -1871293319
+      simant-the-electronic-ant-colony_3 1_208: -1561891654
+      simant-the-electronic-ant-colony_3 1_11: -1883701813
+      simant-the-electronic-ant-colony_3 1_213: 1649837862
+      simant-the-electronic-ant-colony_3 1_60: 1896950333
+      simant-the-electronic-ant-colony_3 1_216: 503688756
+      simant-the-electronic-ant-colony_3 1_181: 558548448
+      simant-the-electronic-ant-colony_3 1_217: -545180683
+      simant-the-electronic-ant-colony_3 1_160: 28667791
+      simant-the-electronic-ant-colony_3 1_224: 1902671149
+      simant-the-electronic-ant-colony_3 1_212: -1085688094
+      simant-the-electronic-ant-colony_3 1_244: -1828970719
+      simant-the-electronic-ant-colony_3 1_27: 1191587763
+      simant-the-electronic-ant-colony_3 1_220: -1593019651
+      simant-the-electronic-ant-colony_3 1_77: 840323520
+      simant-the-electronic-ant-colony_3 1_131: -932726355
+      simant-the-electronic-ant-colony_3 1_21: -486784409
+      simant-the-electronic-ant-colony_3 1_130: 275604680
+      simant-the-electronic-ant-colony_3 1_229: -254515342
+      simant-the-electronic-ant-colony_3 1_169: 159618160
+      simant-the-electronic-ant-colony_3 1_123: -1504070721
+      simant-the-electronic-ant-colony_3 1_128: -37604143
+      simant-the-electronic-ant-colony_3 1_223: 287187993
+      simant-the-electronic-ant-colony_3 1_71: -2085983513
+      simant-the-electronic-ant-colony_3 1_109: 890804222
+      simant-the-electronic-ant-colony_3 1_195: 1534608794
+      simant-the-electronic-ant-colony_3 1_91: 1425133530
+      simant-the-electronic-ant-colony_3 1_204: 1143720808
+      simant-the-electronic-ant-colony_3 1_214: -993073990
+      simant-the-electronic-ant-colony_3 1_31: 1755924773
+      simant-the-electronic-ant-colony_3 1_251: -989072093
+      simant-the-electronic-ant-colony_3 1_94: 606272038
+      simant-the-electronic-ant-colony_3 1_189: 1282490435
+      simant-the-electronic-ant-colony_3 1_75: 1355173148
+      simant-the-electronic-ant-colony_3 1_80: 2024072656
+      simant-the-electronic-ant-colony_3 1_141: -274269857
+      simant-the-electronic-ant-colony_3 1_137: 1622205314
+      simant-the-electronic-ant-colony_3 1_188: -274497126
+      simant-the-electronic-ant-colony_3 1_113: -1289266769
+      simant-the-electronic-ant-colony_3 1_153: 1991937400
+      simant-the-electronic-ant-colony_3 1_74: 536814214
+      simant-the-electronic-ant-colony_3 1_115: 1699555001
+      simant-the-electronic-ant-colony_3 1_149: 255599773
+      simant-the-electronic-ant-colony_3 1_215: -1275657920
+      simant-the-electronic-ant-colony_3 1_207: 191003630
+      simant-the-electronic-ant-colony_3 1_172: 383279438
+      simant-the-electronic-ant-colony_3 1_218: -1830209772
+      simant-the-electronic-ant-colony_3 1_102: 1209236824
+      simant-the-electronic-ant-colony_3 1_127: -431235477
+      simant-the-electronic-ant-colony_3 1_47: -1599767132
+      simant-the-electronic-ant-colony_3 1_64: 1529133680
+      simant-the-electronic-ant-colony_3 1_146: 1874548251
+      simant-the-electronic-ant-colony_3 1_248: -74654660
+      simant-the-electronic-ant-colony_3 1_192: 1450662911
+      simant-the-electronic-ant-colony_3 1_156: -47030717
+      simant-the-electronic-ant-colony_3 1_168: -696687386
+      simant-the-electronic-ant-colony_3 1_25: -1127508224
+      simant-the-electronic-ant-colony_3 1_230: -1725969573
+      simant-the-electronic-ant-colony_3 1_135: -1946779230
+      simant-the-electronic-ant-colony_3 1_92: -1298505294
+      simant-the-electronic-ant-colony_3 1_193: 1388432001
+      simant-the-electronic-ant-colony_3 1_56: 1636226040
+      simant-the-electronic-ant-colony_3 1_90: -517234322
+      simant-the-electronic-ant-colony_3 1_104: 840883921
+      simant-the-electronic-ant-colony_3 1_43: 369165960
+      simant-the-electronic-ant-colony_3 1_155: 1203040579
+      simant-the-electronic-ant-colony_3 1_105: 1520198105
+      simant-the-electronic-ant-colony_3 1_103: 1674152403
+      simant-the-electronic-ant-colony_3 1_233: 733356003
+      simant-the-electronic-ant-colony_3 1_72: 2001793025
+      simant-the-electronic-ant-colony_3 1_191: 1173580827
+      simant-the-electronic-ant-colony_3 1_194: -637113697
+      simant-the-electronic-ant-colony_3 1_52: 2134979786
+      simant-the-electronic-ant-colony_3 1_98: -2123164812
+      simant-the-electronic-ant-colony_3 1_140: 806949286
+      simant-the-electronic-ant-colony_3 1_162: 1131120026
+      simant-the-electronic-ant-colony_3 1_69: 561732505
+      simant-the-electronic-ant-colony_3 1_227: -819378745
+      simant-the-electronic-ant-colony_3 1_16: -404896546
+      simant-the-electronic-ant-colony_3 1_1: -733750930
+      simant-the-electronic-ant-colony_3 1_209: 2115012182
+      simant-the-electronic-ant-colony_3 1_3: 280052224
+      simant-the-electronic-ant-colony_3 1_240: -1919263787
+      simant-the-electronic-ant-colony_3 1_62: 1116030979
+      simant-the-electronic-ant-colony_3 1_186: 1145177453
+      simant-the-electronic-ant-colony_3 1_7: -153722377
+      simant-the-electronic-ant-colony_3 1_15: 1641980995
+      simant-the-electronic-ant-colony_3 1_235: 1486706770
+      simant-the-electronic-ant-colony_3 1_231: 205797284
+      simant-the-electronic-ant-colony_3 1_10: 840089903
+      simant-the-electronic-ant-colony_3 1_6: 1746542516
+      simant-the-electronic-ant-colony_3 1_234: -1241073637
+      simant-the-electronic-ant-colony_3 1_48: -1696648429
+      simant-the-electronic-ant-colony_3 1_219: -749937178
+      simant-the-electronic-ant-colony_3 1_201: 332368564
+      simant-the-electronic-ant-colony_3 1_49: 1680736181
+      simant-the-electronic-ant-colony_3 1_116: 395923276
+      simant-the-electronic-ant-colony_3 1_18: 1808961436
+      simant-the-electronic-ant-colony_3 1_205: -798447092
+      simant-the-electronic-ant-colony_3 1_55: 2026465678
+      simant-the-electronic-ant-colony_3 1_129: -618048041
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
